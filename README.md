@@ -1,3 +1,5 @@
+<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/0dd52613-c466-4828-8e89-5c1877a2abb1" />
+
 # Bogdan Panov/Goggiafk
 
 **`C++/C# Programmer with passion for GameDev and Electronics`**
