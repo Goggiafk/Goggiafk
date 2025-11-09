@@ -46,4 +46,4 @@ Combining strong technical expertise with collaborative experience, including co
 
 ### 📊 Stats
 
-![Goggiafk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Goggiafk&show_icons=true&theme=radical)
+![Goggiafk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Goggiafk&show_icons=true&theme=tokyonight)
