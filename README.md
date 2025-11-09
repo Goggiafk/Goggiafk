@@ -46,4 +46,4 @@ Combining strong technical expertise with collaborative experience, including co
 
 ### 📊 Stats
 
-![Forrest's GitHub stats]( https://github-readme-stats.vercel.app/api?username=goggiafk&show_icons=true&theme=gruvbox)
+![Goggiafk's GitHub stats](https://github-readme-stats.vercel.app/api?Goggiafk=anuraghazra&show_icons=true&theme=radical)
