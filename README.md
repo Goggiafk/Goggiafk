@@ -46,6 +46,15 @@ Combining strong technical expertise with collaborative experience, including co
 
 #
 
+### 🚀 My Projects
+
+| Project | Description |
+|--------|-------------|
+| [WWise Dialogue system](https://github.com/Goggiafk/Dialogue-System-With-WWise) | Simple dialogue system for Meta Human in Unreal Engine with WWise audio integration for dialogue lines |
+| [Hitchhike Wars](https://github.com/Goggiafk/HitchhikeWars) | Multiplayer game in Unreal engine that implements Inventory, Items, Weapons, Character selection, AI NPCes, Melee Combat  |
+
+#
+
 ### 📊 Stats
 
 ![Goggiafk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Goggiafk&show_icons=true&theme=tokyonight)
