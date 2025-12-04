@@ -8,9 +8,6 @@ Gameplay Programmer (4+ years of professional experience and 6+ years as indie g
 Combining strong technical expertise with collaborative experience, including commercial releases on Steam, teaching, a passion for electronics, creative tool-making, and full-cycle development from concept to release.
 
 <p align="left">
-  <a href="bogdan.panow@gmail.com">
-    <img alt="My Email" title="My Email" src="https://custom-icon-badges.demolab.com/badge/Website-bogdanpanov.com-blue?logo=internet&logoColor=white&style=for-the-badge" />
-  </a>
   <a href="https://www.bogdanpanov.com/">
     <img alt="Visit my website" title="My Website" src="https://custom-icon-badges.demolab.com/badge/Website-bogdanpanov.com-blue?logo=internet&logoColor=white&style=for-the-badge" />
   </a>
